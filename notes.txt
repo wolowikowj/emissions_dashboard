@@ -1,0 +1,26 @@
+Build a dashboard on energy data in Python.
+
+Use Snowflake for storage, Streamlit for deployment and in combination with Dash for interactive graphics.
+
+Learn more about energy data, find interesting questions.
+
+Learn to use Dash, learn how to build dashboards and what are good design principles.
+
+Need a primary question:
+	a) How far are we on the way to have mostly sustainable/non-emitant energy generation?
+	b) ...
+	
+Use a Notebook for the thought process and EDA
+
+next steps:
+	1. find data
+	2. find a question
+		2.1 find metrics/subquestions
+	3. do EDA
+	4. prepare graphs
+	5. put them together in a dashboard
+	6. deploy
+	
+1. done: GHGHighlights
+2. done: How much green house gases are emitted by sector and country? And over time?
+			Are there some interesting correlations?
